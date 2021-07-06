@@ -1,0 +1,28 @@
+.color{
+    color: coral;
+}
+#menu{
+    background-color: cyan;
+    display: inline-block;
+    text-decoration: none;
+}
+.section1{
+    display: flex;
+    width: 50%;
+}
+#Recipie{
+    text-align: center;
+    
+}
+.recipie{
+    display: flex;
+    width: 33.3%;
+}
+.rounded{
+    text-decoration: none;
+    color: coral;
+    max-width: 25%;
+}
+#section2{
+    background-image: images/7.pngs;
+}
